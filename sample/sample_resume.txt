@@ -1,0 +1,18 @@
+Ishwarya Raman
+ishwarya.raman@example.com | +91 98765 43210 | Mumbai, India
+
+SUMMARY
+Aspiring data analyst with hands-on experience in Python, SQL, Excel and Power BI.
+Enjoys turning raw data into clear dashboards and insights.
+
+SKILLS
+Python, SQL, MySQL, Excel, Power BI, Pandas, NumPy, Matplotlib, DBMS, Git, GitHub,
+Data Cleaning, Data Visualization, Communication skills, Problem solving
+
+PROJECTS
+Sales Dashboard - Built an interactive Power BI dashboard on sales data; cleaned data with Python and Pandas
+and wrote SQL queries in MySQL to aggregate revenue by region.
+Student Database System - Designed a relational schema and implemented it with SQL as part of a DBMS course.
+
+EDUCATION
+B.Sc. Computer Science
